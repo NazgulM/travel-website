@@ -59,3 +59,4 @@ Step 5 — After testing your application, terminate the EC2 Instance
 
 ![website](3.png)
 
+Thanks to @EverythingCloud
