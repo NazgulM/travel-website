@@ -50,5 +50,12 @@ sudo docker build -t myimage .
 sudo docker run -itd -p 3000:3000 myimage
 ```
 
+![steps](2.png)
+
 Step 5 — After testing your application, terminate the EC2 Instance
+```
+<Public IP Address>:3000
+```
+
+
 
