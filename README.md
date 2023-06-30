@@ -57,5 +57,5 @@ Step 5 — After testing your application, terminate the EC2 Instance
 <Public IP Address>:3000
 ```
 
-
+![website](3.png)
 
